@@ -19,10 +19,17 @@ This project was developed as a team collaboration to explore the intersection o
 - Optional affirmations for reflection or motivation  
 
 ---
-## 📷 Screenshots (Coming Soon)
+## 📷 Screenshots
+
+![Login](main_app/screenshots/login.png)
+![Dashboard](main_app/screenshots/dashboard.png)
+![MoodForm](main_app/screenshots/moodform.png)
+![Resources](main_app/screenshots/resources.png)
 
 
-## 🚀 Getting Started
+## ## 🌐 Live Site
+
+[MoodRing App](https://moodring-d082a6f2c037.herokuapp.com/)
 
 ## 🛠 Technologies Used
 
